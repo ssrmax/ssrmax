@@ -1,1 +1,1 @@
-location.href='ssrmax.vip'
+<location.href='ssrmax.vip'>
