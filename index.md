@@ -1,2 +1,1 @@
-12341,;'pk
-'ihp
+location.href='ssrmax.vip'
