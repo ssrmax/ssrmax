@@ -1,13 +1,4 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<title>正在进入</title>
-</head>
-<body>
-<form name=loading>
-　<p align=center> <font color="#0066ff" size="2">正在进入，请稍等</font><font color="#0066ff" size="2" face="Arial">...</font>
-　　<input type=text name=chart size=46 style="font-family:Arial; font-weight:bolder; color:#0066ff; background-color:#fef4d9; padding:0px; border-style:none;">
-　　
+
 　　<input type=text name=percent size=47 style="color:#0066ff; text-align:center; border-width:medium; border-style:none;">
 　　<script>　
 var bar=0　
