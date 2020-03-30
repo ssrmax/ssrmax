@@ -1,1 +1,1 @@
-111l<hr>
+<location.href='ssrmax.vip'>
